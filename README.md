@@ -4,15 +4,15 @@ Demo project for the 2nd International Conference on Artificial Intelligence, Sy
 ## Introduction to SGS
 - **John von Neumann's Theory**: Focuses on self-reproducing automata with three core modules: A (Universal Constructor), B (Universal Copier), and C (Universal Controller).
 
-![alt text](image.png)
+![alt text](IMG/image.png)
 
 - **Enhanced Model**: Introduces a fourth module, D, for environmental interaction, creating a more dynamic self-replicating system.
 
-![alt text](image-3.png)
+![alt text](IMG/image-3.png)
 
 Self Reproduction flow-chart for extended Self Reproducing System with System description:
 
-![alt text](image-4.png)
+![alt text](IMG/image-4.png)
 
 ## Key Concepts
 - **Self-Replication**: The process involves creating an identical system capable of initiating its replication cycle.
@@ -33,15 +33,15 @@ In summary, Self-Generative Systems (SGS) integrate the principles of John von N
 
 **Mapping Statistical Information to Meta Information**
 
-![alt text](image-5.png)
+![alt text](IMG/image-5.png)
 
 **Feed back loop of the SSI into Matadata**
 
-![alt text](image-6.png)
+![alt text](IMG/image-6.png)
 
 By integrating **socio-economic systems (SES)** mapping into **statistical information systems (SIS)** through statistical observation, and then mapping SIS into Metadata, we can develop a comprehensive and generalized scheme.
 
-![alt text](image-7.png)
+![alt text](IMG/image-7.png)
 
 
 ## HllSets
@@ -92,7 +92,7 @@ To see the source code that proves HllSets satisfies all of these requirements, 
 
 **Transactional Interaction between SGS and Environment**
 
-![alt text](image-9.png)
+![alt text](IMG/image-9.png)
 
 **Commiting changes in SGS** is a methodical process that entails several steps:
 - Creating a new version of the item to be updated;
@@ -110,11 +110,11 @@ The commit history functions as the intrinsic timeline of Self-Generative System
 - **SGS and LLMs**: Seamless integration enhances system functionality, combining analytical and synthetical approaches.
 - **Metadata Models (MM)**: Provides constraints to guide LLM outputs, ensuring relevance and coherence.
 
-![alt text](image-10.png)
+![alt text](IMG/image-10.png)
 
 **Flow-chart of transforming Environment Observations into data and then into LLM and MM**
 
-![alt text](image-11.png)
+![alt text](IMG/image-11.png)
 
 **MM**: Looking at the Differences. HyperLogLog Hashing (HllSets). MM Universe:
 Analytical by Nature, built on HllSet operations.

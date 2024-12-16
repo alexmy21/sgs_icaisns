@@ -4,15 +4,15 @@
 ## SGS简介
 - **约翰·冯·诺依曼的理论**：重点在于自我复制自动机，由三个核心模块组成：A（通用构造器）、B（通用复制器）和C（通用控制器）。
 
-![alt text](image.png)
+![alt text](IMG/image.png)
 
 - **增强模型**：引入第四个模块D，用于环境交互，创建一个更动态的自我复制系统。
 
-![alt text](image-3.png)
+![alt text](IMG/image-3.png)
 
 扩展自我复制系统的自我复制流程图及系统描述：
 
-![alt text](image-4.png)
+![alt text](IMG/image-4.png)
 
 ## 关键概念
 - **自我复制**：这一过程涉及创建一个能够启动其复制周期的相同系统。
@@ -32,15 +32,15 @@
 
 **将统计信息映射到元信息**
 
-![alt text](image-5.png)
+![alt text](IMG/image-5.png)
 
 **将SSI的反馈循环整合到元数据中**
 
-![alt text](image-6.png)
+![alt text](IMG/image-6.png)
 
 通过将**社会经济系统（SES）**映射整合到**统计信息系统（SIS）**中，并通过统计观察将SIS映射到元数据中，我们可以制定一个全面和通用的方案。
 
-![alt text](image-7.png)
+![alt text](IMG/image-7.png)
 
 ## HllSets
 - **基于HyperLogLog算法**：支持集合论性质，有助于高效数据分析。
@@ -83,7 +83,7 @@ HllSets遵循的基本性质如下：
 
 **SGS与环境之间的事务交互**
 
-![alt text](image-9.png)
+![alt text](IMG/image-9.png)
 
 **在SGS中提交更改**是一个系统化的过程，包含几个步骤：
 - 创建要更新项目的新版本；
@@ -101,11 +101,11 @@ HllSets遵循的基本性质如下：
 - **SGS与大型语言模型（LLMs）**：无缝集成增强系统功能，结合分析和综合方法。
 - **元数据模型（MM）**：提供约束以指导LLM输出，确保相关性和连贯性。
 
-![alt text](image-10.png)
+![alt text](IMG/image-10.png)
 
 **将环境观察转化为数据，然后转化为LLM和MM的流程图**
 
-![alt text](image-11.png)
+![alt text](IMG/image-11.png)
 
 **MM**：关注差异。HyperLogLog 哈希（HllSets）。MM宇宙：
 本质上是分析型的，基于HllSet操作构建。
@@ -166,4 +166,4 @@ listening)
 16. https://github.com/alexmy21/SGS/blob/sgs_ai_32/simulation.ipynb 
 
 
-These notes encapsulate the article's exploration of SGS, its theoretical foundations, practical applications, and the integration with AI models to create advanced, self-generative systems.
+这些笔记概括了文章对SGS的探索，包括其理论基础、实际应用，以及与AI模型的整合，以创建先进的自生成系统。
