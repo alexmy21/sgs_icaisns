@@ -2,6 +2,15 @@
 Demo project for the 2nd International Conference on Artificial Intelligence, Systems and Cyber Security (AISNS 2024)
 
 ## Introduction to SGS
+
+    道德经
+    42
+    道生一，一生二，二生三，三生万物。
+
+    Dao De Jing
+    Chapter 42
+    Tao produces unity; unity produces duality; duality produces trinity; trinity produces all things.
+
 - **John von Neumann's Theory**: Focuses on self-reproducing automata with three core modules: A (Universal Constructor), B (Universal Copier), and C (Universal Controller).
 
 ![alt text](IMG/image.png)
