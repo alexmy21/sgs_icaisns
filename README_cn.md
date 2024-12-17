@@ -6,12 +6,18 @@
 
     道德经
     42
-    道生一，一生二，二生三，三生万物。
+    道生一，
+    一生二，
+    二生三，
+    三生万物。
 
     Dao De Jing
     Chapter 42
-    Tao produces unity; unity produces duality; duality produces trinity; trinity produces all things.
-    
+    Tao produces unity; 
+    unity produces duality; 
+    duality produces trinity; 
+    trinity produces all things.
+
 - **约翰·冯·诺依曼的理论**：重点在于自我复制自动机，由三个核心模块组成：A（通用构造器）、B（通用复制器）和C（通用控制器）。
 
 ![alt text](IMG/image.png)

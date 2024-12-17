@@ -5,11 +5,17 @@ Demo project for the 2nd International Conference on Artificial Intelligence, Sy
 
     道德经
     42
-    道生一，一生二，二生三，三生万物。
+    道生一，
+    一生二，
+    二生三，
+    三生万物。
 
     Dao De Jing
     Chapter 42
-    Tao produces unity; unity produces duality; duality produces trinity; trinity produces all things.
+    Tao produces unity; 
+    unity produces duality; 
+    duality produces trinity; 
+    trinity produces all things.
 
 - **John von Neumann's Theory**: Focuses on self-reproducing automata with three core modules: A (Universal Constructor), B (Universal Copier), and C (Universal Controller).
 
