@@ -16,6 +16,7 @@ Demo project for the 2nd International Conference on Artificial Intelligence, Sy
     unity produces duality; 
     duality produces trinity; 
     trinity produces all things.
+    (https://www.yellowbridge.com/onlinelit/daodejing42.php)
 
 - **John von Neumann's Theory**: Focuses on self-reproducing automata with three core modules: A (Universal Constructor), B (Universal Copier), and C (Universal Controller).
 

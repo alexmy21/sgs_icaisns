@@ -17,6 +17,7 @@
     unity produces duality; 
     duality produces trinity; 
     trinity produces all things.
+    (https://www.yellowbridge.com/onlinelit/daodejing42.php)
 
 - **约翰·冯·诺依曼的理论**：重点在于自我复制自动机，由三个核心模块组成：A（通用构造器）、B（通用复制器）和C（通用控制器）。
 
