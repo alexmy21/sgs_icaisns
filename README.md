@@ -16,7 +16,7 @@ The proposed paper dives into Self Generative Systems, or SGS. This idea is insp
 
 So, von Neumann's original theory had this system with three parts: a Universal Constructor, a Universal Copier, and a Universal Controller. But in this article, there's a twist—a fourth part is added: the Environmental Interaction Module. This new piece lets systems interact with their surroundings, which is super useful, especially when it comes to automating software development processes.
 
-A big part of SGS is about managing metadata. This means handling both the original data and the data about the data, all in one go. The article introduces something called HllSets, which is a data structure based on the HyperLogLog algorithm. It’s all about analyzing data efficiently while sticking to set theory principles, creating a foundation for HllSet Relational Algebra. This algebra includes a bunch of HllSets and operations like union, intersection, and complement.
+A big part of SGS is about managing metadata. This means handling both the original data and the data about the data, all in one go. The article introduces something called HllSets, which is a data structure based on the HyperLogLog algorithm. It’s all about analyzing data efficiently while sticking to set theory principles, creating a foundation for HllSet Relational Algebra. This algebra includes a bunch of HllSets and operations like union, intersection, and complement. (You can catch more details in the following demo.)
 
 The article also talks about how SGS can smoothly integrate with AI models, like Large Language Models or LLMs, to boost system functionality. This combo uses the best of both metadata models and LLMs, making data management more efficient, scalable, and cost-effective.
 
