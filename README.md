@@ -1,3 +1,28 @@
+# Oral presentation
+
+Hey everyone,
+
+Today, I want to chat about my paper submitted for this conference. 
+
+Before moving to the overview I want to make a couple remarks. 
+
+First, it would be nice if you can follow the link https://github.com/alexmy21/sgs_icaisns/blob/main/README.md (you can find this link in the zoom meeting message)
+
+Second, the submitted paper is a very condensed  compilation of a few other works. So there is no way to go through the paper in detail in a reasonable time. As a compromise I decided to prepare a digest of the paper (that is next part of this document) in English and in Chinese.
+
+The following oral presentation will leave me more time for the demo.
+
+The proposed paper dives into Self Generative Systems, or SGS. This idea is inspired by John von Neumann's amazing work on self-reproducing automata. The article looks at how these systems can be paired with AI models to shake up technology and innovation in a big way.
+
+So, von Neumann's original theory had this system with three parts: a Universal Constructor, a Universal Copier, and a Universal Controller. But in this article, there's a twist—a fourth part is added: the Environmental Interaction Module. This new piece lets systems interact with their surroundings, which is super useful, especially when it comes to automating software development processes.
+
+A big part of SGS is about managing metadata. This means handling both the original data and the data about the data, all in one go. The article introduces something called HllSets, which is a data structure based on the HyperLogLog algorithm. It’s all about analyzing data efficiently while sticking to set theory principles, creating a foundation for HllSet Relational Algebra. This algebra includes a bunch of HllSets and operations like union, intersection, and complement.
+
+The article also talks about how SGS can smoothly integrate with AI models, like Large Language Models or LLMs, to boost system functionality. This combo uses the best of both metadata models and LLMs, making data management more efficient, scalable, and cost-effective.
+
+In the end, the article points out the potential of SGS to automate and standardize software development cycles, opening up exciting possibilities for autonomous systems and processes driven by metadata. It highlights how combining SGS with AI could really transform the way we produce high-quality, contextually relevant content.
+
+
 # sgs_icaisns
 Demo project for the 2nd International Conference on Artificial Intelligence, Systems and Cyber Security (AISNS 2024)
 
