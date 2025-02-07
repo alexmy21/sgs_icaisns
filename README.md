@@ -235,6 +235,8 @@ listening)
 14. https://www.deeplistening.rpi.edu/deep-listening/
 15. https://en.wikipedia.org/wiki/Von_Neumann_universal_constructorhttps://en
 16. https://github.com/alexmy21/SGS/blob/sgs_ai_32/simulation.ipynb 
+17. https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1043&context=comp_fac (Merkle Hash Grids)
+18. https://medium.com/@brunoynobruno/from-illusory-randomness-to-quantum-power-redefining-randomness-and-revolutionizing-machine-3f887d79cf00
 
 
 These notes encapsulate the article's exploration of SGS, its theoretical foundations, practical applications, and the integration with AI models to create advanced, self-generative systems.

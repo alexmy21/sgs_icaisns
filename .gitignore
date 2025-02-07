@@ -24,3 +24,7 @@ docs/site/
 Manifest.toml
 
 venv/
+.venv/
+*.ldb
+
+play_ground
