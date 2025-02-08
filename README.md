@@ -237,6 +237,8 @@ listening)
 16. https://github.com/alexmy21/SGS/blob/sgs_ai_32/simulation.ipynb 
 17. https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1043&context=comp_fac (Merkle Hash Grids)
 18. https://medium.com/@brunoynobruno/from-illusory-randomness-to-quantum-power-redefining-randomness-and-revolutionizing-machine-3f887d79cf00
+19. https://paper-sub.com/order/paperDetail/224110502182121520 (Reference to the paper on the SGS)
+20. https://camps.aptaracorp.com/AuthorDashboard/dashboard.html?val=0f98f3ec-da65-11ef-ada9-16bb50361d1f&filemessage=Processing+complete&filestatus=approve&key=0# (Reference to paper on ACM)
 
 
 These notes encapsulate the article's exploration of SGS, its theoretical foundations, practical applications, and the integration with AI models to create advanced, self-generative systems.
